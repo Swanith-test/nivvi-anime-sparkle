@@ -13,36 +13,64 @@ const Index = () => {
 
   const messages = [
     {
-      text: "Happy Birthday, Nivvi — the multitasking legend who tries everything at least once!",
+      text: "🎂 Happy Birthday to the multi-talented legend who wants to try everything except relaxing for 5 minutes 😆",
       icon: "✨",
     },
     {
-      text: "Aged like fine wine 🍷 but still behaves like a toddler with extra sugar!",
+      text: "Wishing a chaotic genius a birthday full of new experiments and half-finished projects 🧠✨",
       icon: "🌸",
     },
     {
-      text: "The perfect mix of daring and timid — a paradox wrapped in chaos 🤭.",
+      text: "May your birthday be as packed as your Google search history — \"how to learn everything in one day\" 😂",
       icon: "⚡",
     },
     {
-      text: "Nervous like me sometimes… but still slaying it in style 😎.",
+      text: "Cheers to the only person who can start ten things at once and still find time to make memes about it 😎",
       icon: "💫",
     },
     {
-      text: "You've got a character so strong even AI models would admire your personality 😌.",
+      text: "Happy Birthday to the eternal child trapped in an adult's calendar 🎂🍼",
       icon: "🌟",
     },
     {
-      text: "So friendly that introverts might actually consider socializing 👀.",
+      text: "Hope your birthday goes smoother than your nervous laughter during serious talks 🫠",
       icon: "🎋",
     },
     {
-      text: "Laser focus when needed — but only after ten distractions 😆.",
+      text: "May your birthday shine as bright as your kindness (and as loud as your sarcasm) 🌟",
       icon: "🎌",
     },
     {
-      text: "You're basically a walking talent show, just waiting for a commercial break.",
+      text: "Happy Birthday to a masterpiece still under creative editing 😝✨",
       icon: "🌺",
+    },
+    {
+      text: "You're open-source goodness with a pinch of sass — perfect combo 💻🎂",
+      icon: "💖",
+    },
+    {
+      text: "Wishing the friendliest human Wi-Fi router a very happy birthday 🛜💞",
+      icon: "🎪",
+    },
+    {
+      text: "You could befriend a stone and make it smile — that's your superpower 🪨😆",
+      icon: "🎨",
+    },
+    {
+      text: "May your DMs stay full, your group chats stay active, and your friends never stop roasting you 🎈😂",
+      icon: "🎭",
+    },
+    {
+      text: "Birthday girl who turns strangers into besties — keep spreading that chaotic kindness 💫",
+      icon: "🌈",
+    },
+    {
+      text: "Even Siri would say \"Happy Birthday, bestie!\" today 🤖🎉",
+      icon: "🎪",
+    },
+    {
+      text: "Wishing you a birthday filled with love, laughter, and fewer \"what-am-I-doing-with-my-life\" moments 😅",
+      icon: "🎯",
     },
   ];
 
