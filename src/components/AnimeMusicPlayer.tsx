@@ -47,7 +47,7 @@ const AnimeMusicPlayer = () => {
         <audio
           ref={audioRef}
           loop
-          src="https://cdn.pixabay.com/download/audio/2022/03/10/audio_4a33f76c12.mp3"
+          src="/happy-birthday-401919.mp3"
           onPlay={() => setIsPlaying(true)}
           onPause={() => setIsPlaying(false)}
         />
